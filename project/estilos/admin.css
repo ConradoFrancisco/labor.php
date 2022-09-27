@@ -1,0 +1,43 @@
+:root{
+    --primary : #393939;
+    --light :#ffffff;
+    --grey: #efefef;
+}
+body{
+    overflow: hidden;
+    font-weight: 600;
+    color: var(--primary);
+}
+.bg-primary{
+    background-color: var(--primary) !important;
+}
+#sidebar-container{
+    min-height: 100vh;
+
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+#sidebar-container .logo{
+    padding: .875rem 1.25rem;
+}
+
+#sidebar-container .menu{
+    width: 14rem;
+}
+#nav{
+    display:block !important;
+    
+}
+.navbar{
+    background-color: #1066a0 !important;
+}
+#nov{
+    color: #478fca !important;
+}
+#leyenda{
+    color: #478fca !important;
+    
+}

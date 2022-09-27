@@ -1,0 +1,29 @@
+body{
+    background-image: url("../imagenes/3.jpg");
+    background-repeat: no-repeat;
+    background-size: 1368px 800px;
+    
+}
+#overlay{
+    color: #fff;
+    background-color: #333;
+    opacity: 0.8;
+    border: 1px solid #fff
+
+}
+img{
+    height: 50px !important; 
+}
+.azul{
+    color: rgb(121, 134, 255);
+}
+#carta{
+    border: 8px solid #333 !important;
+}
+
+#usuario-error{
+    color:#f00;
+    display: block;
+    font-weight: 700;
+    font-size: 14px;
+}
